@@ -9,3 +9,9 @@ Deep Learning approaches using Artificial Neural Network to be applied in foreca
 6. Orientation
 7. Glazing Area
 8. Glazing Area Distribution
+
+![image](https://user-images.githubusercontent.com/98142436/160826948-e9d26f70-d09f-4bef-9300-4c013012c86e.png)
+
+![image](https://user-images.githubusercontent.com/98142436/160826995-112472d5-8f95-4be4-b9c2-dded46584a0d.png)
+
+*Where Y1 and Y2 represent the Heating and Cooling Load respectively.*
