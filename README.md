@@ -15,3 +15,6 @@ Deep Learning approaches using Artificial Neural Network to be applied in foreca
 ![image](https://user-images.githubusercontent.com/98142436/160826995-112472d5-8f95-4be4-b9c2-dded46584a0d.png)
 
 *Where Y1 and Y2 represent the Heating and Cooling Load respectively.*
+
+1. Root Mean Square Error on Heating Load :0.7121
+2. Root Mean Square Error on Cooling Load : 1.3132
